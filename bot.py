@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 
 # Configurações
-TOKEN = 'Safadinho' # Substitua pelo seu token de bot
-# Substitua pelo seu token de bot
+TOKEN = '' # Substitua pelo seu token de bot
+
 CHANNEL_ID = 1362461608890077488  
 MESSAGE_ID = 1362466517836497079  
 
